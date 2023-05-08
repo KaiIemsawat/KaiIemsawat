@@ -27,9 +27,10 @@ I found myself enjoy learning new things and develop my skill set
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+## My Current Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiIemsawat&layout=compact&theme=dark)](https://github.com/KaiIemsawat/github-readme-stats)
+
 ### Something else
 
 On my free time, beside improving my skills, I love visiting national parks 🌲🏕️🌲🌲
-
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiIemsawat&show_icons=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiIemsawat&layout=compact&theme=dark)](https://github.com/KaiIemsawat/github-readme-stats)
