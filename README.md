@@ -30,3 +30,5 @@ I found myself enjoy learning new things and develop my skill set
 ### Something else
 
 On my free time, beside improving my skills, I love visiting national parks 🌲🏕️🌲🌲
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiIemsawat&hide=contribs,prs)
