@@ -4,9 +4,9 @@ Very nice to meet you
 
 ### Little things about me
 
-I am currently working as Data Test Engineer at [Pluto TV 📺](https://pluto.tv/welcome)
+I am currently working as Data Test Engineer at [Pluto TV 📺](https://pluto.tv/welcome)  
 I am also taking software engineer class at [Coding Dojo](https://www.codingdojo.com/) aiming to be a full stack developer  
-I found myself enjoy solving coding challenge, much like solving a puzzle game
+I found myself enjoy learning new things and develop my skill set
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -21,3 +21,6 @@ I found myself enjoy solving coding challenge, much like solving a puzzle game
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+On my free time, beside improving my skills, I love visiting national parks 🌲🏕️🌲
