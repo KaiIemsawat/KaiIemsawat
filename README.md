@@ -31,4 +31,5 @@ I found myself enjoy learning new things and develop my skill set
 
 On my free time, beside improving my skills, I love visiting national parks 🌲🏕️🌲🌲
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiIemsawat&hide=contribs,prs)
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiIemsawat&&theme=drak&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiIemsawat&layout=compact)](https://github.com/KaiIemsawat/github-readme-stats)
