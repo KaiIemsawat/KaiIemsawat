@@ -27,7 +27,7 @@ I found myself enjoy learning new things and develop my skill set
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## My Current Stats
+### My Current Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiIemsawat&layout=compact&theme=dark)](https://github.com/KaiIemsawat/github-readme-stats)
 
