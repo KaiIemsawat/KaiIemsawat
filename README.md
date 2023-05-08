@@ -1,9 +1,12 @@
-<h1>Hi, this is Kai.</h1> Very nice to meet you
+## Hi, this is Kai
+
+Very nice to meet you
 
 ### Little things about me
 
-I am currently working as Data Test Engineer at Pluto TV 📺  
-I am also taking software engineer class at Coding Dojo aiming to be a full stack developer
+I am currently working as Data Test Engineer at [Pluto TV 📺](https://pluto.tv/welcome)
+I am also taking software engineer class at [Coding Dojo](https://www.codingdojo.com/) aiming to be a full stack developer  
+I found myself enjoy solving coding challenge, much like solving a puzzle game
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
