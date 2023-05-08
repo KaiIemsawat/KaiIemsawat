@@ -8,6 +8,8 @@ I am currently working as Data Test Engineer at [Pluto TV 📺](https://pluto.tv
 I am also taking software engineer class at [Coding Dojo](https://www.codingdojo.com/) aiming to be a full stack developer  
 I found myself enjoy learning new things and develop my skill set
 
+### Languages and tools
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,4 +25,4 @@ I found myself enjoy learning new things and develop my skill set
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-On my free time, beside improving my skills, I love visiting national parks 🌲🏕️🌲
+On my free time, beside improving my skills, I love visiting national parks 🌲🏕️🌲🌲
