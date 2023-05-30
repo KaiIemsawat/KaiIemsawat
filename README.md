@@ -3,10 +3,12 @@
 Very nice to meet you
 
 ### Little things about me
-
 I am currently working as Data Test Engineer at [Pluto TV 📺](https://pluto.tv/welcome)  
 I am also taking software engineer class at [Coding Dojo](https://www.codingdojo.com/) aiming to be a full stack developer  
 I found myself enjoy learning new things and develop my skill set
+
+### Something else
+On my free time, beside improving my skills, I love visiting national parks 🌲🏕️🌲🌲
 
 ### Languages and tools
 
@@ -29,6 +31,4 @@ I found myself enjoy learning new things and develop my skill set
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiIemsawat&layout=compact&theme=dark)](https://github.com/KaiIemsawat/github-readme-stats)
 
-### Something else
 
-On my free time, beside improving my skills, I love visiting national parks 🌲🏕️🌲🌲
