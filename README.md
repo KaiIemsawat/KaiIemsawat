@@ -3,12 +3,16 @@
 Very nice to meet you
 
 ### Little things about me
-I am currently working as Data Test Engineer at [Pluto TV 📺](https://pluto.tv/welcome)  
-I am also taking software engineer class at [Coding Dojo](https://www.codingdojo.com/) aiming to be a full stack developer  
-I found myself enjoy learning new things and develop my skill set
+At present, I am employed as a Data Test Engineer at [Pluto TV 📺](https://pluto.tv/welcome) , where my primary responsibility revolves around ensuring the accuracy, reliability, and efficiency of data systems. It is an intellectually stimulating role that demands attention to detail, critical thinking, and problem-solving skills. Every day, I am presented with unique challenges that push me to expand my knowledge and refine my testing methodologies.
+
+In parallel to my professional journey, I have enrolled in software engineering classes at [Coding Dojo](https://www.codingdojo.com/), a renowned educational institution. My ultimate aim is to become a proficient full stack developer capable of crafting robust and innovative software solutions. These classes have provided me with a solid foundation in programming languages, web development frameworks, and database management, equipping me with the necessary tools to excel in the field.
+
+What truly sets me apart is my innate curiosity and passion for continuous growth. I thoroughly enjoy immersing myself in new technologies, frameworks, and programming languages. This enthusiasm for learning has helped me stay at the forefront of industry trends and empowered me to contribute effectively to my current role. By actively seeking out opportunities to expand my skill set, I can bring fresh perspectives and novel approaches to my work.
 
 ### Something else
-On my free time, beside improving my skills, I love visiting national parks 🌲🏕️🌲🌲
+Beyond my professional aspirations, I also cherish my leisure time spent in the great outdoors. Nature has always held a special place in my heart, and my favorite way to connect with it is by visiting national parks. The tranquility, grandeur, and raw beauty of these pristine landscapes never fail to inspire and rejuvenate me. Exploring hiking trails, capturing breathtaking photographs, and immersing myself in the wonders of nature have become cherished pastimes that provide a much-needed balance to my busy life. 🌲🏕️🌲🌲
+
+
 
 ### Languages and tools
 
