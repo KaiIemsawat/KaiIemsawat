@@ -44,7 +44,7 @@ Beyond my professional aspirations, I also cherish my leisure time spent in the 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiIemsawat&layout=compact)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiIemsawat&layout=compact&theme=dark)](https://github.com/KaiIemsawat/github-readme-stats)
 
 
